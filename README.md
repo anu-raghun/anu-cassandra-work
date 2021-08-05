@@ -1,3 +1,6 @@
+## Note: this project was completed as a part of my coursework for my Nanodegree in Data Engineering on the online learning portal Udacity. The problem setup and datasets were provided by Udacity.
+
+
 # Successful build of ETL pipeline and database schema for Sparkify's Data Analytics team.
 
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app.A proiorty for the team is understanding what song users are listening to. Currently, there is no easy way to query the data to generate the results, since the data reside in a directory of CSV files on user activity on the app.
